@@ -563,6 +563,9 @@ font-family: "Promt";
   gap: 5px;
   margin-top: 15px;
 }
+.ipsumcontetnt{
+    margin-left: 20px;
+}
 .logocontent span{
   color:#7E61FF70;
 }
@@ -753,6 +756,7 @@ input::placeholder{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 40px;
 }
 .ipsum-block {
     display: flex;
